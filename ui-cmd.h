@@ -1,0 +1,9 @@
+#define CMD_ARROWS                              0x01000000  /* class 0 */ 
+#define CMD_ARROWS_ARROW                        0x01010000  /* class 0 */ 
+#define CMD_ARROWS_ARROW_LEVEL                  0x01010100  /* class 0 */ 
+#define CMD_ARROWS_ARROW_COLOR                  0x01010200  /* class 0 */ 
+#define CMD_ARROWS_ARROW_STYLE                  0x01010300  /* class 0 */ 
+#define CMD_ARROWS_ARROW_WEIGHT                 0x01010400  /* class 0 */ 
+#define CMD_ARROWS_LOAD                         0x01020000  /* class 0 */ 
+#define CMD_ARROWS_LOAD_CONFIG                  0x01020100  /* class 0 */ 
+#define CMD_ARROWS_LOAD_ARROWS                  0x01020200  /* class 0 */ 
